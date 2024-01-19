@@ -1,0 +1,1 @@
+import{j as e}from"./index-C6q3SpT0.js";const s=()=>e.jsx("div",{className:"flex justify-center items-center bg-black h-screen w-full",children:e.jsx("p",{className:"text-3xl text-red-500 font-bold",children:"404 - Page Not Found!"})});export{s as default};
