@@ -1,1 +1,0 @@
-import{j as e}from"./index-fw9Y1jsc.js";const t=()=>e.jsx("div",{className:"flex flex-col justify-center items-center h-[calc(100vh-5rem)]",children:e.jsx("p",{className:"text-3xl text-red-500",children:"Something Went Wrong!"})});export{t as E};
